@@ -1,0 +1,13 @@
+Rank:99.0
+CumulativeSums:7.0
+Frequency:7.0
+OverlappingTemplate:61.0
+LongestRun:33.0
+FFT:84.0
+BlockFrequency:29.0
+Serial:87.5
+Runs:12.0
+Universal:0.0
+LinearComplexity:100.0
+ApproximateEntropy:39.0
+NonOverlappingTemplate:88.43243243243244
